@@ -28,6 +28,9 @@ O código contém uma interface de controle de almoxarifado por tabela, a ideia 
     
  O código abrange uma boa conexão com o banco de dados que por sinal é lá que acontece o CRUD, além do mais, contém serventias muito úteis como:<br></br> Impedimento de adicionar um produto com quantidade 0, prevenção de inserção de números no nome do produto, botões para limpar campos, proteção de acesso ao dashboard, mensagem de boas-vindas personalizada com o nome do usuário, detalhes do produto recuperados do banco de dados são exibidos em um formulário HTML para edição, e etc
 
+### Vídeo do código em execução
+
+
 ## 🔨Ferramentas
 
 - [PHP](https://www.php.net)
